@@ -1,2 +1,1 @@
-# pintf
 Collaborative group project
